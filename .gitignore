@@ -1,0 +1,5 @@
+/vendor
+.env
+.phpunit.result.cache
+autoloader.temp.php
+/node_modules

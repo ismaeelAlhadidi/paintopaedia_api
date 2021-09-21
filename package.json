@@ -1,0 +1,9 @@
+{
+  "type":"module",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
+}
